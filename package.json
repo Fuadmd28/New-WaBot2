@@ -1,6 +1,6 @@
 {
     "name": "Kitagawa_Marin_Bot",
-    "version": "4.0.0",
+    "version": "20.9.0",
     "description": "Simple WhatsApp Bot",
     "main": "index.js",
     "type": "module",
